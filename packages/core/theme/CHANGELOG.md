@@ -1,5 +1,15 @@
 # @nextui-org/theme
 
+## 2.2.7
+
+### Patch Changes
+
+- [#3221](https://github.com/heroui-inc/heroui/pull/3221) [`b4c046f`](https://github.com/heroui-inc/heroui/commit/b4c046fe8ba7b26d60e6b1463101e35f3f9f1ce8) Thanks [@sjoerdvanBommel](https://github.com/sjoerdvanBommel)! - Differentiate selected bg color from striped bg color (#1602)
+
+- [#3291](https://github.com/heroui-inc/heroui/pull/3291) [`e9a6a16`](https://github.com/heroui-inc/heroui/commit/e9a6a162e8a26c6507938191c4e0b5bd94bdbf8d) Thanks [@wingkwong](https://github.com/wingkwong)! - Fixed variants for nested accordions (#3285)
+
+- [#3268](https://github.com/heroui-inc/heroui/pull/3268) [`93f1787`](https://github.com/heroui-inc/heroui/commit/93f17878154a6351c38c8ef4806b5fb20e4fa217) Thanks [@wingkwong](https://github.com/wingkwong)! - revised styles and logic for input with file type (#2397, #2311, #2965)
+
 ## 2.2.6
 
 ### Patch Changes
